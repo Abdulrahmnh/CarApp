@@ -1,0 +1,7 @@
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CarApp\CarApp\bin\Debug\CarApp.exe.config
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CarApp\CarApp\bin\Debug\CarApp.exe
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CarApp\CarApp\bin\Debug\CarApp.pdb
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CarApp\CarApp\obj\Debug\CarApp.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CarApp\CarApp\obj\Debug\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CarApp\CarApp\obj\Debug\CarApp.exe
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CarApp\CarApp\obj\Debug\CarApp.pdb
